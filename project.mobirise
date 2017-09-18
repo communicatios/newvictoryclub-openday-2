@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "New Victory Landing Page 2",
+    "name": "New Victory Open Day",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -43,7 +43,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Open Day New Victory Club",
+        "title": "[ Open Day ] New Victory Club",
         "meta_descr": "Open Day 2 Ottobre 2017\nIN CUI POTRAI PROVARE TUTTE LE NOSTRE LEZIONI \nPartecipa al Fitness Day che la New Victory Club ha organizzato per te:\n- lezioni special\n- master class \n- fitness no stop\n- dj set\n- aperitivo. ",
         "header_custom": "",
         "footer_custom": "",
